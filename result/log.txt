@@ -1,0 +1,40 @@
+For the test-1, the unstable assembly.
+	Linprog stopped because no point satisfies the constraints.
+
+	'The object is not stable.'
+	k1 = []
+___________________________________________________________________
+
+For the test-2, the stable assembly.
+	Optimal solution found.
+
+	'The object is stable.'
+	k2 =	16.5379
+    		3.0180
+    		5.7600
+   		1.0000
+   		22.4198
+    		1.0000
+   		26.8498
+   		61.7895
+For the three-body arch in Figure 12.27 from textbook.
+	Optimal solution found.
+
+	'The object is stable.'
+	k =
+   	15.4749
+   	 1.0000
+   	62.2926
+   	 1.2923
+   	 1.0000
+   	36.1548
+    	 1.0000
+   	 1.0002
+   	36.1549
+   	 1.0000
+   	 1.0000
+   	 1.0000
+   	 1.2922
+   	62.2922
+   	 1.0000
+   	15.4752
